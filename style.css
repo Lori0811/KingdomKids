@@ -23,18 +23,18 @@ body{
 	float:left;
 }
 article {
-	  -webkit-column-count: 150px;
-	  -moz-column-count: 150px;
-      column-count: 150px;
-	  color: white;
-	  font-size:1.50em;
-	  background-color:#4359C5;
-	  padding-left:50px;
-	  padding-right:50px;
+	 -webkit-column-count: 150px;
+	 -moz-column-count: 150px;
+      	 column-count: 150px;
+	 color: white;
+	 font-size:1.50em;
+	 background-color:#4359C5;
+	 padding-left:50px;
+	 padding-right:50px;
 }
 @media (min-width: 500px) {
-  article {
-    height: 350px;
+  	article {
+    	height: 350px;
   }
 }
 #myBtn{
@@ -46,16 +46,16 @@ article {
 }
 .fa{
 	padding: 10px;
-    font-size: 20px;
+    	font-size: 20px;
 	color:#ffffff;
-    text-decoration: none;	
+    	text-decoration: none;	
 }
 .fa:hover{
 	background-color:transparent;
 	color:#4359C5;
 }
 .fa-facebook {
-    background: #3B5998;
+    	background: #3B5998;
 }
 .fa-twitter {
 	background: #007bb5;
@@ -65,7 +65,7 @@ article {
 }
 footer{
 	position: relative;
-    padding-top:20px;
+    	padding-top:20px;
 	color:#000000;
 	text-align: center;
 }
